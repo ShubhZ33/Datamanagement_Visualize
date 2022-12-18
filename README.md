@@ -1,1 +1,12 @@
-# jj
+# Twitter Facebook Multi-Year Data Set
+Sustainability has been one of the top trending topics in the corporate world for the past 10-15 years. Sustainability is important, and it can be profitable for companies, as studies suggest that it can reduce operational costs and increase operating profits up to 60% (Koller & Nuttall, n.d.). The only problem is that it is expensive to be sustainable, and the cost savings are not realised in the short-term. Secondly, because of the complexity of the sustainability checklist, it is difficult for smaller enterprises to mark everything as checked, thus diminishing their capability to compete on a sustainability-level in the long-term. In addition, sustainable technologies can at times be a loss-rather than a profit-making advantage due to the complexity of the issue at hand (Laughland et al., 2015b).
+
+A comprehensive analysis was conducted in this report to evaluate the impact of sustainability-related efforts on a company's financial performance. The study focused on two key areas: the relationship between Sustainability and Financials, and the impact of a company's social media activity on its growth.
+
+First, the study examined the relationship between carbon emissions and net income. The analysis found that there is a significant inverse relationship between the two variables. For every 1 unit increase in carbon emissions, a company is likely to lose approximately $1.92 million in net income.
+
+Furthermore, reducing carbon emissions can have a negative short-term impact on ROA, as companies must invest a significant portion of their assets in order to improve their environmental sustainability rankings. However, the study also found that this initial investment can lead to a long-term increase in net income. 
+
+The analysis highlights the importance of diversity for a company, as a positive relationship was observed between the proportion of Women employees and the Net Income. The second part of the analysis focused on the positive impact that sustainability-related social media activity can have on a company’s financials. 
+
+Overall, the study provides compelling evidence that sustainability-related efforts can have a positive impact on a company's financial performance. By reducing carbon emissions, ensuring gender diversity and promoting sustainability through all marketing channels, companies can improve their financials and sustainability rankings, leading to long-term financial success.
